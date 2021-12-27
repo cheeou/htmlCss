@@ -1,0 +1,32 @@
+.profile{
+    width: 100px; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.fontStyle{
+    color: red; 
+    font-weight: 900;
+}
+
+.box {
+    width: 100px;
+    background-color:beige;
+    margin: 10px;
+    padding: 30px;
+    border: 4px solid brown;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    box-shadow: 10px 4px salmon;
+    text-align: center;
+}
+.content {
+    text-align: center;
+}
+.title {
+    text-align: center;
+    font-size: 16px;
+}
